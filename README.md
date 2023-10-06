@@ -16,8 +16,9 @@ Clone the repo
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
-```bash
 # Install requirements by running this command from your project dir
+```bash
+
 # On Dev:
 $ pip install -r requirements/dev.txt
 
@@ -32,10 +33,6 @@ $ python manage.py migrate
 $ python manage.py runserver
 ```
 
-
-## First Time Use
-
-* Create a superuser using [this guide](https://www.geeksforgeeks.org/how-to-create-superuser-in-django/).
 
 ## Database or other errors
 At this point in time this application works with any database backend
