@@ -16,7 +16,7 @@ Clone the repo
 ```sh
 git clone https://github.com/your_username_/Project-Name.git
 ```
-# Install requirements by running this command from your project dir
+## Install requirements by running this command from your project dir
 ```bash
 
 # On Dev:
